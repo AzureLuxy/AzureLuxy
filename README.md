@@ -10,4 +10,5 @@
 
 Список изученного:
 - [Курс](https://stepik.org/course/171826/syllabus) Артёма Русова (сертификат)
+- [Интерактивный](https://stepik.org/course/63054/syllabus) тренажер по SQL
 - 
