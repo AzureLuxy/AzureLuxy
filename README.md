@@ -1,6 +1,6 @@
 Привет! 
-- 
-- Я Светлана, начинающий QA Engineer
+---
+- Я Светлана, начинающий QA Engineer.
 - Люблю новые технологии, интересные задачи и нейросети
 - Сейчас изучаю Python, Selenium и автоматизацию.
 - [Здесь](https://github.com/AzureLuxy/AzureLuxy/blob/main/Lazareva_QAEngineer.pdf) можно найти моё резюме.
@@ -9,6 +9,7 @@
 - Пока всё, буду дополнять :)
 
 Список изученного:
-- [Курс](https://stepik.org/course/171826/syllabus) Артёма Русова (сертификат)
+---
+- [Курс](https://stepik.org/course/171826/syllabus) Артёма Русова ([сертификат](https://github.com/AzureLuxy/AzureLuxy/blob/main/Certificates/Stepik_Rusau.pdf)https://github.com/AzureLuxy/AzureLuxy/blob/main/Certificates/Stepik_Rusau.pdf)
 - [Интерактивный](https://stepik.org/course/63054/syllabus) тренажер по SQL
 - 
