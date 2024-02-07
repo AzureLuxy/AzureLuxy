@@ -5,7 +5,7 @@
 - Сейчас изучаю Python, Selenium и автоматизацию.
 - [Здесь](https://github.com/AzureLuxy/AzureLuxy/blob/main/Lazareva_QAEngineer.pdf) можно найти моё резюме.
 - [Здесь](https://github.com/AzureLuxy/PythonSQL) мой скрипт на Python, который отправляет запросы к MySQL на localhost. Демонстрирует владение SQL и Python.
-- [Здесь](https://github.com/AzureLuxy/AzureLuxy/blob/main/AnswersToQABible.md) быстрые ответы на тестовые задачи из списка
+- [Здесь](https://github.com/AzureLuxy/AzureLuxy/blob/main/AnswersToQABible.md) быстрые ответы на тестовые задачи из списка [QABible](https://vladislaveremeev.gitbook.io/qa_bible/prakticheskaya-chast/primery-zadach-na-sobesedovaniyakh-i-testovykh-zadanii).
 - Пока всё, буду дополнять :)
 
 Основной список изученного:
