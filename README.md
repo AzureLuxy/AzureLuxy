@@ -8,7 +8,7 @@
 - [Здесь](https://github.com/AzureLuxy/AzureLuxy/blob/main/AnswersToQABible.md) быстрые ответы на тестовые задачи из списка
 - Пока всё, буду дополнять :)
 
-Список изученного:
+Основной список изученного:
 ---
 - [Курс](https://stepik.org/course/171826/syllabus) Артёма Русова ([сертификат](https://github.com/AzureLuxy/AzureLuxy/blob/main/Certificates/Stepik_Rusau.pdf))
 - [Интерактивный](https://stepik.org/course/63054/syllabus) тренажер по SQL
