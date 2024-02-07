@@ -10,6 +10,6 @@
 
 Список изученного:
 ---
-- [Курс](https://stepik.org/course/171826/syllabus) Артёма Русова ([сертификат](https://github.com/AzureLuxy/AzureLuxy/blob/main/Certificates/Stepik_Rusau.pdf)https://github.com/AzureLuxy/AzureLuxy/blob/main/Certificates/Stepik_Rusau.pdf)
+- [Курс](https://stepik.org/course/171826/syllabus) Артёма Русова ([сертификат](https://github.com/AzureLuxy/AzureLuxy/blob/main/Certificates/Stepik_Rusau.pdf))
 - [Интерактивный](https://stepik.org/course/63054/syllabus) тренажер по SQL
 - 
