@@ -12,4 +12,6 @@
 ---
 - [Курс](https://stepik.org/course/171826/syllabus) Артёма Русова ([сертификат](https://github.com/AzureLuxy/AzureLuxy/blob/main/Certificates/Stepik_Rusau.pdf))
 - [Интерактивный](https://stepik.org/course/63054/syllabus) тренажер по SQL
-- 
+- Святослав Куликов "Тестирование программного обеспечения. Базовый курс. 3-е издание"
+- Роман Савин "Тестирование dot com"
+- ["Тестирование ПО Полный курс"](https://www.youtube.com/watch?v=3kgdKE7ndvI) и другие видео с канала Лёши Маршала
