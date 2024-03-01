@@ -11,7 +11,7 @@
 
 Основной список изученного:
 ---
-- [Курс](https://stepik.org/course/171826/syllabus) Артёма Русова ([сертификат](https://github.com/AzureLuxy/AzureLuxy/blob/main/Certificates/Stepik_Rusau.pdf)), видео с его [канала](https://www.youtube.com/channel/UCiDbqnoBNx3pRHyYAgrnwBg).
+- [Курс](https://stepik.org/course/171826/syllabus) Артёма Русова ([сертификат](https://stepik.org/cert/2375419)), видео с его [канала](https://www.youtube.com/channel/UCiDbqnoBNx3pRHyYAgrnwBg).
 - [Интерактивный](https://stepik.org/course/63054/syllabus) тренажер по SQL
 - Святослав Куликов "Тестирование программного обеспечения. Базовый курс. 3-е издание"
 - Роман Савин "Тестирование dot com"
